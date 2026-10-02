@@ -738,6 +738,11 @@ The framework is designed as a modular research implementation for studying priv
 B.Tech in Computing and Data Science  
 Sai University, Chennai, Tamil Nadu, India
 
+**Dr Priyank Jain**
+
+Assistant Professor, Department of Computer Science and Engineering 
+IIIT Pune, India
+
 ### Research Interests
 
 - Privacy-Preserving Machine Learning
