@@ -1,0 +1,50 @@
+============================================================
+PRIVACY VALIDATION REPORT
+============================================================
+
+Dataset Shape : (32561, 15)
+
+Quasi Identifier Columns
+ - age
+ - education
+ - education.num
+ - marital.status
+ - occupation
+ - relationship
+ - race
+ - sex
+ - native.country
+
+Sensitive Columns
+ - income
+
+========================================
+K-ANONYMITY
+========================================
+Passed : 41
+Failed : 2
+Minimum Group Size : 1
+
+========================================
+DISTINCT L-DIVERSITY
+========================================
+Passed : 21
+Failed : 22
+
+========================================
+ENTROPY L-DIVERSITY
+========================================
+Passed : 6
+Failed : 37
+
+========================================
+RECURSIVE (c,l)-DIVERSITY
+========================================
+Passed : 3
+Failed : 40
+
+========================================
+OVERALL PRIVACY
+========================================
+Privacy Score : 41.28%
+Privacy Level : LOW

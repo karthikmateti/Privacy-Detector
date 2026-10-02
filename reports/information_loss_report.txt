@@ -1,0 +1,52 @@
+================================================================================
+INFORMATION LOSS REPORT
+================================================================================
+
+DATASET INFO:
+  Original Rows: 32561
+  Original Columns: 15
+  Anonymized Rows: 32561
+  Anonymized Columns: 15
+
+QUASI-IDENTIFIERS:
+  - age
+  - education
+  - education.num
+  - marital.status
+  - occupation
+  - relationship
+  - race
+  - sex
+  - native.country
+
+SENSITIVE ATTRIBUTES:
+  - income
+
+INFORMATION LOSS METRICS:
+  Normalized Certainty Penalty (NCP): 0.5561
+  Generalization Percentage: 65.35%
+  Suppression Percentage: 4.04%
+  Discernibility Metric (DM): 67.5240
+
+UTILITY METRICS:
+
+ORIGINAL DATASET:
+  accuracy: 0.8686
+  precision: 0.8633
+  recall: 0.8686
+  f1: 0.8615
+
+ANONYMIZED DATASET:
+  accuracy: 0.8459
+  precision: 0.8417
+  recall: 0.8459
+  f1: 0.8257
+
+UTILITY LOSS (Original - Anonymized):
+  accuracy: 0.0226
+  precision: 0.0216
+  recall: 0.0226
+  f1: 0.0358
+
+OVERALL INFORMATION LOSS SCORE: 0.3896
+================================================================================
