@@ -735,8 +735,7 @@ The framework is designed as a modular research implementation for studying priv
 
 **Mateti Karthik**
 
-B.Tech in Computing and Data Science  
-Sai University, Chennai, Tamil Nadu, India
+B.Tech in Computing and Data Science Sai University, Chennai, Tamil Nadu, India
 
 **Dr Priyank Jain**
 
