@@ -1,0 +1,10 @@
+Differential Privacy Report
+==========================
+Client ID: client1
+Timestamp: 2026-07-04 23:02:38
+
+Noise Mechanism: gaussian
+Epsilon: 1.0
+Delta: 1e-05
+Noise Multiplier: 1.0
+Model Update Size (bytes): 622248

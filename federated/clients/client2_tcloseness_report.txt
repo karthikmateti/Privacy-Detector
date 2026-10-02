@@ -1,0 +1,29 @@
+======================================================================
+T-CLOSENESS REPORT
+======================================================================
+
+Dataset Shape : (10908, 15)
+
+Quasi Identifier Columns
+----------------------------
+age
+education
+education.num
+marital.status
+occupation
+relationship
+race
+sex
+native.country
+
+Sensitive Attributes
+----------------------------
+income
+
+Threshold : 0.2
+Total Groups : 41
+Passed Groups : 15
+Failed Groups : 26
+
+Average Distance : 0.4231
+Maximum Distance : 0.9463

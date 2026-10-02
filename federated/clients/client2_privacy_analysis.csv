@@ -1,0 +1,16 @@
+Column,Category,Confidence
+age,QI  — Quasi-Identifier,99.8%
+workclass,NS  — Non-Sensitive,92.1%
+fnlwgt,NS  — Non-Sensitive,84.5%
+education,QI  — Quasi-Identifier,93.7%
+education.num,QI  — Quasi-Identifier,99.8%
+marital.status,QI  — Quasi-Identifier,98.0%
+occupation,QI  — Quasi-Identifier,99.3%
+relationship,QI  — Quasi-Identifier,60.4%
+race,QI  — Quasi-Identifier,98.9%
+sex,QI  — Quasi-Identifier,99.8%
+capital.gain,NS  — Non-Sensitive,74.2%
+capital.loss,NS  — Non-Sensitive,74.2%
+hours.per.week,NS  — Non-Sensitive,55.1%
+native.country,QI  — Quasi-Identifier,99.9%
+income,SA  — Sensitive Attribute,99.3%
